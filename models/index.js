@@ -1,4 +1,4 @@
-const User = require('./user');
+const User = require('./User');
 const Family = require('./family');
 const ShoppingList = require('./shoppingList');
 const Product = require('./product');
