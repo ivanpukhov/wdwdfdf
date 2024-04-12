@@ -29,7 +29,7 @@ const Product = sequelize.define('Product', {
 });
 
 // Подразумевается, что модель Category уже определена где-то в другом месте
-const Category = require('./Category'); // Импортируем модель Category
+const Category = require('./category'); // Импортируем модель Category
 
 // Определение связей
 // Product.belongsTo(Category, {
