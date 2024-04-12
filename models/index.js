@@ -1,6 +1,6 @@
 const User = require('./User');
 const Family = require('./family');
-const ShoppingList = require('./shoppingList');
+const ShoppingList = require('./ShoppingList');
 const Product = require('./product');
 const Category = require('./category');
 const FamilyPhone = require('./FamilyPhone');
